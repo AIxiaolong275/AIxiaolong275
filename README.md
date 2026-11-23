@@ -26,4 +26,4 @@
 ## 联系
 
 - 邮箱：daybreak_wm@126.com
-- 项目仓库：即将公开
+- 项目仓库：[AIxiaolong275/personal-agent](https://github.com/AIxiaolong275/personal-agent)
